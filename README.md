@@ -11,6 +11,8 @@ This project is a web application built with HTML, CSS, and JavaScript that allo
 
 ## Preview
 
+![image](https://github.com/Shinia-Gupta/ECommerce-Website/assets/113818197/77b920fa-f0d6-4a7d-b02b-cdf02106ac26)
+
 ![image](https://github.com/Shinia-Gupta/ECommerce-Website/assets/113818197/d160cbb1-ffd7-4a48-bcbd-4c51900fab16)
 
 ## Getting Started
