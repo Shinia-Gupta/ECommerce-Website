@@ -11,7 +11,7 @@ This project is a web application built with HTML, CSS, and JavaScript that allo
 
 ## Preview
 
-![Shopping Cart Web App](preview.png)
+![image](https://github.com/Shinia-Gupta/ECommerce-Website/assets/113818197/d160cbb1-ffd7-4a48-bcbd-4c51900fab16)
 
 ## Getting Started
 
@@ -38,3 +38,6 @@ No external libraries or frameworks are required for this project.
 
 ### Contributing
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please feel free to open an issue or create a pull request.
+
+### Live Project 
+[Project Live]()
